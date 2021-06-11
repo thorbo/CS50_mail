@@ -1,3 +1,11 @@
 textarea {
     min-height: 400px;
 }
+
+#emails-view div {
+    border-width: thin;
+    border-style: solid;
+    margin: 5px;
+    display: flex;
+    justify-content: space-around;
+}
